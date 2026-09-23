@@ -1,1 +1,11 @@
-# lab-8
+This project focuses on summary fidelity and report scaffolding for workplace writing in the aviation-management context. The main objective is to understand how Generative AI can assist in summarising business information while ensuring that the original meaning, numerical data, limitations, and important findings are accurately preserved.
+
+The activity begins with a claim-by-claim fidelity check of an AI-generated summary. Each statement is compared with the original source to determine whether it is fully supported, omitted, or unsupported. The project specifically highlights the importance of preserving factual information such as the 120 passenger comments, 45 security-queue complaints, 30 directional-sign complaints, 20 baggage-delay complaints, 15 seating complaints, 10 positive staff comments, and two temporary information desks. Numerical information is separately checked against the source because incorrect numbers can change the meaning of a management report.
+
+The project also identifies the difference between omissions and inventions. Important information such as positive feedback, trial duration, and source limitations should not be removed. At the same time, unsupported claims such as saying that a trial was successful, calculating financial impact, or stating that overall passenger satisfaction declined must be removed when the source does not provide evidence for them.
+
+A corrected management summary is then developed using only information supported by the source. The activity also introduces a structured management-report scaffold containing sections such as Executive Summary, Purpose, Source and Scope, Key Findings, Positive Feedback, Actions Taken, Limitations, Recommendations, Verification Requirements, and Conclusion. The use of **[VERIFY]** placeholders helps clearly identify information that is unavailable or requires confirmation.
+
+The project further demonstrates how facts should be separated from report structure, recommendations, and information requiring verification. A second baggage-complaint activity reinforces the importance of not changing “delayed baggage” into “lost baggage” or inventing compensation, delivery timelines, or customer-satisfaction scores.
+
+Overall, this lab develops practical skills in AI-assisted workplace writing, source verification, numerical accuracy, structured reporting, and responsible use of Generat
